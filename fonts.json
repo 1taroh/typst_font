@@ -1,0 +1,685 @@
+{
+    "entries": [
+        {
+            "name": "Agency FB"
+        },
+        {
+            "name": "Algerian"
+        },
+        {
+            "name": "Arial"
+        },
+        {
+            "name": "Arial Rounded MT"
+        },
+        {
+            "name": "Bahnschrift"
+        },
+        {
+            "name": "Baskerville Old Face"
+        },
+        {
+            "name": "Bauhaus 93"
+        },
+        {
+            "name": "Bell MT"
+        },
+        {
+            "name": "Berlin Sans FB"
+        },
+        {
+            "name": "Bernard MT"
+        },
+        {
+            "name": "BIZ UDGothic"
+        },
+        {
+            "name": "BIZ UDMincho"
+        },
+        {
+            "name": "BIZ UDPGothic"
+        },
+        {
+            "name": "BIZ UDPMincho"
+        },
+        {
+            "name": "Blackadder ITC"
+        },
+        {
+            "name": "Bodoni MT"
+        },
+        {
+            "name": "Bodoni MT Poster"
+        },
+        {
+            "name": "Book Antiqua"
+        },
+        {
+            "name": "Bookman Old Style"
+        },
+        {
+            "name": "Bookshelf Symbol 7"
+        },
+        {
+            "name": "Bradley Hand ITC"
+        },
+        {
+            "name": "Britannic"
+        },
+        {
+            "name": "Broadway"
+        },
+        {
+            "name": "Brush Script MT"
+        },
+        {
+            "name": "Calibri"
+        },
+        {
+            "name": "Californian FB"
+        },
+        {
+            "name": "Calisto MT"
+        },
+        {
+            "name": "Cambria"
+        },
+        {
+            "name": "Cambria Math"
+        },
+        {
+            "name": "Candara"
+        },
+        {
+            "name": "Cascadia Code"
+        },
+        {
+            "name": "Cascadia Mono"
+        },
+        {
+            "name": "Castellar"
+        },
+        {
+            "name": "Centaur"
+        },
+        {
+            "name": "Century"
+        },
+        {
+            "name": "Century Gothic"
+        },
+        {
+            "name": "Century Schoolbook"
+        },
+        {
+            "name": "Chiller"
+        },
+        {
+            "name": "Colonna MT"
+        },
+        {
+            "name": "Comic Sans MS"
+        },
+        {
+            "name": "Consolas"
+        },
+        {
+            "name": "Constantia"
+        },
+        {
+            "name": "Cooper"
+        },
+        {
+            "name": "Copperplate Gothic"
+        },
+        {
+            "name": "Corbel"
+        },
+        {
+            "name": "Courier New"
+        },
+        {
+            "name": "Curlz MT"
+        },
+        {
+            "name": "DejaVu Sans Mono"
+        },
+        {
+            "name": "Dubai"
+        },
+        {
+            "name": "Ebrima"
+        },
+        {
+            "name": "Edwardian Script ITC"
+        },
+        {
+            "name": "Elephant"
+        },
+        {
+            "name": "Engravers MT"
+        },
+        {
+            "name": "Eras Bold ITC"
+        },
+        {
+            "name": "Eras Demi ITC"
+        },
+        {
+            "name": "Eras Light ITC"
+        },
+        {
+            "name": "Eras Medium ITC"
+        },
+        {
+            "name": "Felix Titling"
+        },
+        {
+            "name": "Footlight MT"
+        },
+        {
+            "name": "Forte"
+        },
+        {
+            "name": "Franklin Gothic"
+        },
+        {
+            "name": "Franklin Gothic Book"
+        },
+        {
+            "name": "Freestyle Script"
+        },
+        {
+            "name": "French Script MT"
+        },
+        {
+            "name": "Gabriola"
+        },
+        {
+            "name": "Gadugi"
+        },
+        {
+            "name": "Garamond"
+        },
+        {
+            "name": "Georgia"
+        },
+        {
+            "name": "Gigi"
+        },
+        {
+            "name": "Gill Sans"
+        },
+        {
+            "name": "Gill Sans MT"
+        },
+        {
+            "name": "Gloucester MT"
+        },
+        {
+            "name": "Goudy Old Style"
+        },
+        {
+            "name": "Goudy Stout"
+        },
+        {
+            "name": "Haettenschweiler"
+        },
+        {
+            "name": "Harlow Solid"
+        },
+        {
+            "name": "Harrington"
+        },
+        {
+            "name": "HGGothicE"
+        },
+        {
+            "name": "HGGothicM"
+        },
+        {
+            "name": "HGGyoshotai"
+        },
+        {
+            "name": "HGKyokashotai"
+        },
+        {
+            "name": "HGMaruGothicMPRO"
+        },
+        {
+            "name": "HGMinchoB"
+        },
+        {
+            "name": "HGMinchoE"
+        },
+        {
+            "name": "HGPGothicE"
+        },
+        {
+            "name": "HGPGothicM"
+        },
+        {
+            "name": "HGPGyoshotai"
+        },
+        {
+            "name": "HGPKyokashotai"
+        },
+        {
+            "name": "HGPMinchoB"
+        },
+        {
+            "name": "HGPMinchoE"
+        },
+        {
+            "name": "HGPSoeiKakugothicUB"
+        },
+        {
+            "name": "HGPSoeiKakupoptai"
+        },
+        {
+            "name": "HGPSoeiPresenceEB"
+        },
+        {
+            "name": "HGSeikaishotaiPRO"
+        },
+        {
+            "name": "HGSGothicE"
+        },
+        {
+            "name": "HGSGothicM"
+        },
+        {
+            "name": "HGSGyoshotai"
+        },
+        {
+            "name": "HGSKyokashotai"
+        },
+        {
+            "name": "HGSMinchoB"
+        },
+        {
+            "name": "HGSMinchoE"
+        },
+        {
+            "name": "HGSoeiKakugothicUB"
+        },
+        {
+            "name": "HGSoeiKakupoptai"
+        },
+        {
+            "name": "HGSoeiPresenceEB"
+        },
+        {
+            "name": "HGSSoeiKakugothicUB"
+        },
+        {
+            "name": "HGSSoeiKakupoptai"
+        },
+        {
+            "name": "HGSSoeiPresenceEB"
+        },
+        {
+            "name": "High Tower Text"
+        },
+        {
+            "name": "HoloLens MDL2 Assets"
+        },
+        {
+            "name": "Impact"
+        },
+        {
+            "name": "Imprint MT Shadow"
+        },
+        {
+            "name": "Informal Roman"
+        },
+        {
+            "name": "Ink Free"
+        },
+        {
+            "name": "Javanese Text"
+        },
+        {
+            "name": "Jokerman"
+        },
+        {
+            "name": "Juice ITC"
+        },
+        {
+            "name": "Kristen ITC"
+        },
+        {
+            "name": "Kunstler Script"
+        },
+        {
+            "name": "Leelawadee"
+        },
+        {
+            "name": "Leelawadee UI"
+        },
+        {
+            "name": "Linux Libertine"
+        },
+        {
+            "name": "Lucida Bright"
+        },
+        {
+            "name": "Lucida Calligraphy"
+        },
+        {
+            "name": "Lucida Console"
+        },
+        {
+            "name": "Lucida Fax"
+        },
+        {
+            "name": "Lucida Handwriting"
+        },
+        {
+            "name": "Lucida Sans"
+        },
+        {
+            "name": "Lucida Sans Typewriter"
+        },
+        {
+            "name": "Lucida Sans Unicode"
+        },
+        {
+            "name": "Magneto"
+        },
+        {
+            "name": "Maiandra GD"
+        },
+        {
+            "name": "Malgun Gothic"
+        },
+        {
+            "name": "Marlett"
+        },
+        {
+            "name": "Matura MT Script Capitals"
+        },
+        {
+            "name": "Meiryo"
+        },
+        {
+            "name": "Meiryo UI"
+        },
+        {
+            "name": "Microsoft Himalaya"
+        },
+        {
+            "name": "Microsoft JhengHei UI"
+        },
+        {
+            "name": "Microsoft New Tai Lue"
+        },
+        {
+            "name": "Microsoft PhagsPa"
+        },
+        {
+            "name": "Microsoft Sans Serif"
+        },
+        {
+            "name": "Microsoft Tai Le"
+        },
+        {
+            "name": "Microsoft Uighur"
+        },
+        {
+            "name": "Microsoft YaHei"
+        },
+        {
+            "name": "Microsoft YaHei UI"
+        },
+        {
+            "name": "Microsoft Yi Baiti"
+        },
+        {
+            "name": "MingLiU"
+        },
+        {
+            "name": "MingLiU_HKSCS"
+        },
+        {
+            "name": "Mistral"
+        },
+        {
+            "name": "Modern No. 20"
+        },
+        {
+            "name": "Mongolian Baiti"
+        },
+        {
+            "name": "Monotype Corsiva"
+        },
+        {
+            "name": "MS Gothic"
+        },
+        {
+            "name": "MS Mincho"
+        },
+        {
+            "name": "MS Outlook"
+        },
+        {
+            "name": "MS PGothic"
+        },
+        {
+            "name": "MS PMincho"
+        },
+        {
+            "name": "MS Reference Sans Serif"
+        },
+        {
+            "name": "MS Reference Specialty"
+        },
+        {
+            "name": "MS UI Gothic"
+        },
+        {
+            "name": "MT Extra"
+        },
+        {
+            "name": "MV Boli"
+        },
+        {
+            "name": "Myanmar Text"
+        },
+        {
+            "name": "New Computer Modern"
+        },
+        {
+            "name": "New Computer Modern Math"
+        },
+        {
+            "name": "Niagara Engraved"
+        },
+        {
+            "name": "Niagara Solid"
+        },
+        {
+            "name": "Nirmala UI"
+        },
+        {
+            "name": "NSimSun"
+        },
+        {
+            "name": "OCR A Extended"
+        },
+        {
+            "name": "OCRB"
+        },
+        {
+            "name": "Old English Text MT"
+        },
+        {
+            "name": "Onyx"
+        },
+        {
+            "name": "Palace Script MT"
+        },
+        {
+            "name": "Palatino Linotype"
+        },
+        {
+            "name": "Papyrus"
+        },
+        {
+            "name": "Parchment"
+        },
+        {
+            "name": "Perpetua"
+        },
+        {
+            "name": "Perpetua Titling MT"
+        },
+        {
+            "name": "Playbill"
+        },
+        {
+            "name": "PMingLiU"
+        },
+        {
+            "name": "Poor Richard"
+        },
+        {
+            "name": "Pristina"
+        },
+        {
+            "name": "Rage"
+        },
+        {
+            "name": "Ravie"
+        },
+        {
+            "name": "Rockwell"
+        },
+        {
+            "name": "Sans Serif Collection"
+        },
+        {
+            "name": "Script MT"
+        },
+        {
+            "name": "Segoe Fluent Icons"
+        },
+        {
+            "name": "Segoe MDL2 Assets"
+        },
+        {
+            "name": "Segoe Print"
+        },
+        {
+            "name": "Segoe Script"
+        },
+        {
+            "name": "Segoe UI"
+        },
+        {
+            "name": "Segoe UI Emoji"
+        },
+        {
+            "name": "Segoe UI Historic"
+        },
+        {
+            "name": "Segoe UI Symbol"
+        },
+        {
+            "name": "Segoe UI Variable"
+        },
+        {
+            "name": "Showcard Gothic"
+        },
+        {
+            "name": "SimSun"
+        },
+        {
+            "name": "Sitka Text"
+        },
+        {
+            "name": "Snap ITC"
+        },
+        {
+            "name": "Stencil"
+        },
+        {
+            "name": "Sylfaen"
+        },
+        {
+            "name": "Symbol"
+        },
+        {
+            "name": "Tahoma"
+        },
+        {
+            "name": "Tempus Sans ITC"
+        },
+        {
+            "name": "Times New Roman"
+        },
+        {
+            "name": "Trebuchet MS"
+        },
+        {
+            "name": "Tw Cen MT"
+        },
+        {
+            "name": "UD Digi Kyokasho N-B"
+        },
+        {
+            "name": "UD Digi Kyokasho N-R"
+        },
+        {
+            "name": "UD Digi Kyokasho NK-B"
+        },
+        {
+            "name": "UD Digi Kyokasho NK-R"
+        },
+        {
+            "name": "UD Digi Kyokasho NP-B"
+        },
+        {
+            "name": "UD Digi Kyokasho NP-R"
+        },
+        {
+            "name": "Verdana"
+        },
+        {
+            "name": "Viner Hand ITC"
+        },
+        {
+            "name": "Vivaldi"
+        },
+        {
+            "name": "Vladimir Script"
+        },
+        {
+            "name": "Webdings"
+        },
+        {
+            "name": "Wide Latin"
+        },
+        {
+            "name": "Wingdings"
+        },
+        {
+            "name": "Wingdings 2"
+        },
+        {
+            "name": "Wingdings 3"
+        },
+        {
+            "name": "Yu Gothic"
+        },
+        {
+            "name": "Yu Gothic UI"
+        },
+        {
+            "name": "Yu Mincho"
+        },
+        {
+            "name": "微軟正黑體"
+        }
+    ]
+}
