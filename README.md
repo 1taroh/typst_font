@@ -1,4 +1,4 @@
-# typst_font
+# typst_font_list
 typst で用いることができるフォントの一覧を表示する
 
 ## 使い方
